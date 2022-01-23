@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/grace/AndroidStudioProjects/Adapted-Miwok-App-master/app/src/main/res/layout/activity_category.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/grace/AndroidStudioProjects/Adapted-Miwok-App-master/app/src/main/res/layout/activity_colors.xml" value="0.14447463768115942" />
+        <entry key="..\:/Users/grace/AndroidStudioProjects/Adapted-Miwok-App-master/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/grace/AndroidStudioProjects/Adapted-Miwok-App-master/app/src/main/res/layout/activity_phrases.xml" value="0.15208333333333332" />
+        <entry key="..\:/Users/grace/AndroidStudioProjects/Adapted-Miwok-App-master/app/src/main/res/layout/fragment_family.xml" value="0.15572916666666667" />
+        <entry key="..\:/Users/grace/AndroidStudioProjects/Adapted-Miwok-App-master/app/src/main/res/layout/fragment_phrases.xml" value="0.15572916666666667" />
+        <entry key="..\:/Users/grace/AndroidStudioProjects/Adapted-Miwok-App-master/app/src/main/res/layout/miwok_two_text.xml" value="0.22" />
+        <entry key="..\:/Users/grace/AndroidStudioProjects/Adapted-Miwok-App-master/app/src/main/res/layout/view_pager.xml" value="0.15572916666666667" />
+        <entry key="..\:/Users/grace/AndroidStudioProjects/Adapted-Miwok-App-master/app/src/main/res/layout/words_list.xml" value="0.1480978260869565" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
